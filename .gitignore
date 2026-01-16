@@ -1,0 +1,10 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos del sistema Mac
+.DS_Store
